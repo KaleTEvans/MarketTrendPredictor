@@ -1,9 +1,11 @@
 #include <iostream>
 
+// Include boost shared pointer first to avoid cpprest macro U()
+#include <boost/make_shared.hpp>
 #include <FinancialData/FundamentalData.h>
 #include <FinancialData/TechnicalData.h>
 #include <FinancialData/Logger.h>
-//#include <ql/math/distributions/studenttdistribution.hpp>
+#include <ql/math/distributions/studenttdistribution.hpp>
 
 int main() {
     managers::LogManager fd;

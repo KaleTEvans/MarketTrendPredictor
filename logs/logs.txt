@@ -14,3 +14,7 @@
 [2022-08-25 14:30:09] [warning] [/home/kale/StockProjects/StockNews/libs/CPPFinancialData/src/TechnicalData.cpp:13] No data received for: PYPL
 [2022-08-25 14:30:09] [error] [/home/kale/StockProjects/StockNews/main.cpp:22] This is your COCK speaking
 [2022-08-25 14:31:09] [error] [/home/kale/StockProjects/StockNews/main.cpp:22] This is your COCK speaking
+[2022-08-25 18:10:13] [error] [/home/kale/StockProjects/StockTrendChangePredictor/main.cpp:22] This is your COCK speaking
+[2022-08-25 18:13:35] [error] [/home/kale/StockProjects/StockTrendChangePredictor/main.cpp:22] This is your COCK speaking
+[2022-08-25 18:13:54] [error] [/home/kale/StockProjects/StockTrendChangePredictor/main.cpp:22] This is your COCK speaking
+[2022-08-25 18:28:18] [error] [/home/kale/StockProjects/StockTrendChangePredictor/main.cpp:23] This is your COCK speaking

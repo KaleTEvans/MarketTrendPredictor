@@ -1,3 +1,3 @@
 #! /bin/sh
 
-cd ../out/build ; ./StockNews
+cd ../out/build ; ./StockTrendChangePredictor
