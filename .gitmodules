@@ -1,6 +1,6 @@
 [submodule "libs/QuantLib"]
 	path = libs/QuantLib
-	url = https://github.com/lballabio/QuantLib.git
+	url = git@github.com:lballabio/QuantLib.git
 [submodule "libs/CPPFinancialData"]
 	path = libs/CPPFinancialData
 	url = https://github.com/KaleTEvans/CPPFinancialData.git
