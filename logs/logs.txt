@@ -1,0 +1,16 @@
+[2022-08-16 17:44:29] [info] [/home/kale/StockProjects/StockNews/main.cpp:15] This is your COCK speaking
+[2022-08-16 18:06:42] [error] [/home/kale/StockProjects/StockNews/main.cpp:15] This is your COCK speaking
+[2022-08-16 18:07:37] [error] [/home/kale/StockProjects/StockNews/main.cpp:15] This is your COCK speaking
+[2022-08-16 23:34:26] [error] [/home/kale/StockProjects/StockNews/main.cpp:15] This is your COCK speaking
+[2022-08-17 00:20:33] [error] [/home/kale/StockProjects/StockNews/main.cpp:15] This is your COCK speaking
+[2022-08-17 11:32:30] [error] [/home/kale/StockProjects/StockNews/main.cpp:15] This is your COCK speaking
+[2022-08-17 11:36:16] [error] [/home/kale/StockProjects/StockNews/main.cpp:15] This is your COCK speaking
+[2022-08-17 11:37:04] [error] [/home/kale/StockProjects/StockNews/main.cpp:15] This is your COCK speaking
+[2022-08-18 10:57:36] [error] [/home/kale/StockProjects/StockNews/main.cpp:15] This is your COCK speaking
+[2022-08-25 13:44:31] [error] [/home/kale/StockProjects/StockNews/main.cpp:22] This is your COCK speaking
+[2022-08-25 14:26:00] [error] [/home/kale/StockProjects/StockNews/main.cpp:22] This is your COCK speaking
+[2022-08-25 14:26:57] [error] [/home/kale/StockProjects/StockNews/main.cpp:22] This is your COCK speaking
+[2022-08-25 14:27:23] [error] [/home/kale/StockProjects/StockNews/main.cpp:22] This is your COCK speaking
+[2022-08-25 14:30:09] [warning] [/home/kale/StockProjects/StockNews/libs/CPPFinancialData/src/TechnicalData.cpp:13] No data received for: PYPL
+[2022-08-25 14:30:09] [error] [/home/kale/StockProjects/StockNews/main.cpp:22] This is your COCK speaking
+[2022-08-25 14:31:09] [error] [/home/kale/StockProjects/StockNews/main.cpp:22] This is your COCK speaking
