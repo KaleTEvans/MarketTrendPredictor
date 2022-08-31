@@ -4,3 +4,6 @@
 [submodule "libs/CPPFinancialData"]
 	path = libs/CPPFinancialData
 	url = https://github.com/KaleTEvans/CPPFinancialData.git
+[submodule "libs/GMM"]
+	path = libs/GMM
+	url = git@github.com:andreacasalino/Gaussian-Mixture-Model.git
