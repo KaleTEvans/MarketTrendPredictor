@@ -25,7 +25,7 @@ int main() {
         cout << i << endl;
     }
 
-    uword d = 5;
+    uword d = 10;
     uword N = 10000;
 
     mat data(d, N, fill::zeros);
@@ -62,13 +62,11 @@ int main() {
     rowvec histogram2 = model.norm_hist(data, eucl_dist);
 
     model.save("my_model.gmm");
-    
+
     mat modified_dcovs = 2 * model.dcovs;
 
     model.set_dcovs(modified_dcovs);
 
-
-    CPPFINANCIALDATA_ERROR("This is your COCK speaking");
 
     fd.Shutdown();
 
